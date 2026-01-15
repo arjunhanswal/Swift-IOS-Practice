@@ -51,41 +51,7 @@ Welcome to the **iOS Advanced Practice Repo**! This repository is designed for i
 - Detecting retain cycles / memory leaks
 - Optimizing TableViews / SwiftUI Lists
 
----
-iOSAdvancedRepo/
-├── README.md                       # Overview & setup instructions
-├── Networking/
-│   ├── GraphQLIntegration/         # Using Apollo / GraphQL APIs
-│   ├── WebSocketChat/              # Real-time updates via WebSockets
-│   └── CombineNetworking/          # Networking with Combine framework
-├── Concurrency/
-│   ├── AsyncAwaitExample/          # Swift concurrency with async/await
-│   └── TaskGroupsDemo/             # Using TaskGroups & structured concurrency
-├── Architecture/
-│   ├── MVVMAdvanced/               # Large app MVVM + Coordinators
-│   ├── VIPERModule/                # VIPER module implementation
-│   └── CleanSwiftArchitecture/     # Clean architecture example
-├── Animations/
-│   ├── SwiftUIAnimations/          # Advanced interactive SwiftUI animations
-│   └── UIKitTransitions/           # Custom transitions & animations
-├── Persistence/
-│   ├── CoreDataAdvanced/           # Relationships, batch updates
-│   └── RealmAdvanced/              # Complex object storage + syncing
-├── Testing/
-│   ├── UnitTestsAdvanced/          # Mocking, dependency injection
-│   └── UITestAutomation/           # XCTest + UI automation
-├── Security/
-│   ├── KeychainManager/            # Storing credentials securely
-│   └── BiometricAuth/              # FaceID / TouchID integration
-├── Performance/
-│   ├── InstrumentsProfiling/       # Sample code to test performance
-│   └── MemoryLeaksDemo/            # Detecting & fixing memory leaks
-└── Playground/
-    └── SwiftConcurrencyPlayground/ # Testing small advanced snippets
 
-## **How to Use This Repo**
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/iOSAdvancedRepo.git
+
 
